@@ -4,14 +4,22 @@
 - [Bahasa Indonesia](README.in.md)
 - [Español](README.es.md)
 - [简体中文](README.zh.md)
+- [Deutsch](README.de.md)
+- [français](README.fr.md)
+- [العربية](README.ar.md)
+- [Português Brasileiro](README.pt-br.md)
+- [Italiano](README.it.md)
+- [Nederlands](README.nl.md)
 
 # みんなで逮捕されようプロジェクト
 
 日本において、以下のようなアラートの無限ループを JavaScript で書いたサイトへのリンクを貼ったことである女子中学生が警察に補導されました:
 
-        while (1) {
-          alert("!");
-        }
+```js
+while (1) {
+  alert("!");
+}
+```
 
 関連記事:
 [https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html](https://www3.nhk.or.jp/lnews/kobe/20190304/2020003239.html)
